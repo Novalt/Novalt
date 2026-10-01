@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Rodin
 
-<!--
-**Novalt/Novalt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Machines faster than you think.**
 
-Here are some ideas to get you started:
+Computer Science graduate based in Barcelona, Spain. Open to junior software roles, on-site, hybrid or remote.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I work with
+
+**Languages:** Python, C#, JavaScript, SQL
+
+**Also:** HTML/CSS, React Native (prior experience), Java (coursework), AWS EC2
+
+**Data and ML:** Pandas, NumPy, Scikit-learn, Statsmodels, Qiskit
+
+## Featured projects
+
+- [Portfolio-Quantum-Optimization](https://github.com/Novalt/Portfolio-Quantum-Optimization): QAOA portfolio selection executed on real IBM Quantum hardware (Python, Qiskit).
+- [QuantTrader](https://github.com/Novalt/QuantTrader): data pipeline, strategy layer and backtesting framework for market data (Python, Pandas).
+- [Cointegration-Portfolio](https://github.com/Novalt/Cointegration-Portfolio): statistical trading system based on cointegration across multiple assets (Python).
+- [NovalQuant-Core](https://github.com/Novalt/NovalQuant-Core): modular research infrastructure for data download, cleaning, pair selection and backtesting.
+
+## Currently learning
+
+- Machine learning with fast.ai's Practical Deep Learning for Coders
+- Algorithms and data structures, SQL and testing, through daily practice
+- Building new projects in the open: a REST API with SQL and a web dashboard
+
+## Languages
+
+English, Spanish, Portuguese. Learning Chinese and Russian.
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/rodinsarmento/)
