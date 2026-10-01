@@ -1,7 +1,5 @@
 # Hi, I'm Rodin
 
-**Machines faster than you think.**
-
 Computer Science graduate based in Barcelona, Spain. Open to junior software roles, on-site, hybrid or remote.
 
 ## What I work with
